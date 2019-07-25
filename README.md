@@ -3,3 +3,6 @@
 
 #탐구 과정&결과_1
 https://www.kaggle.com/wnsgh3678/study
+
+#탐구 과정&결과_3
+https://www.kaggle.com/wnsgh3678/ourstudy-10yr
